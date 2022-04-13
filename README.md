@@ -1,4 +1,4 @@
-## 👋 Hello, and thanks for taking a look at my GitHub!
+## Hello and thanks for taking a look at my profile!
 
 ### About Me
 
