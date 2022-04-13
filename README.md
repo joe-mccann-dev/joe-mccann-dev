@@ -1,0 +1,60 @@
+## 👋 Hello, and thanks for taking a look at my GitHub!
+
+### About Me
+
+I'm a self-taught programmer and open source enthusiast focusing on full stack web development.
+
+- I'm currently working on getting my AWS Cloud Practitioner certification.
+- I'm currently learning the new Rails 7 features, including Turbo and Stimulus. I'm also gradually learning Python.
+
+### Languages
+
+- HTML
+- CSS
+- JavaScript
+- Ruby
+- Python
+- SQL
+
+### Frameworks and Tools
+
+- Ruby on Rails
+- RSpec
+- Git
+- Debugger
+- Linux
+- Heroku
+
+### Interests
+
+- Music
+- Technology
+- Running
+- Science
+- Photography
+- Health
+
+### Collaboration
+
+I love open source software and I'm open to contributing to pretty much anything. Contact me below if you'd like to collborate!
+
+### Contact Me
+
+- <a href="mailto:joe.mccann@mailbox.org">Send me an email.</a>
+- <a href="https://www.linkedin.com/in/joe-mccann-dev/">Connect on LinkedIn </a>
+
+
+<!--
+**joe-mccann-dev/joe-mccann-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to gt you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
