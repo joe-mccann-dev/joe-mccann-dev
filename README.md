@@ -36,7 +36,7 @@ I'm a self-taught programmer and open source enthusiast focusing on full stack w
 
 ### Collaboration
 
-I love open source software and I'm open to contributing to pretty much anything. Contact me below if you'd like to collborate!
+I love open source software and I'm open to contributing to pretty much anything. Contact me below if you'd like to collaborate!
 
 ### Contact Me
 
