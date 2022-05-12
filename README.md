@@ -13,7 +13,6 @@ I'm a self-taught programmer and open source enthusiast focusing on full stack w
 - CSS
 - JavaScript
 - Ruby
-- Python
 - SQL
 
 ### Frameworks and Tools
