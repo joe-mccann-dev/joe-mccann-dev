@@ -4,8 +4,7 @@
 
 I'm a self-taught programmer and open source enthusiast focusing on full stack web development.
 
-- I'm currently working on getting my AWS Cloud Practitioner certification.
-- I'm currently learning the new Rails 7 features, including Turbo and Stimulus. I'm also gradually learning Python.
+- Status: Mastering HTML/CSS
 
 ### Languages
 
