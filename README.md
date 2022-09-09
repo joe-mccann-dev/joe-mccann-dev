@@ -4,7 +4,7 @@
 
 I'm a self-taught programmer and open source enthusiast focusing on full stack web development.
 
-- Status: Reading _A Common Sense Guide to Data Structures and Algorithms by Jay Wengrow_
+- Status: Reading _A Common Sense Guide to Data Structures and Algorithms_ by Jay Wengrow
 
 ### Languages
 
