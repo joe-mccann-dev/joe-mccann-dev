@@ -23,18 +23,9 @@ I'm a self-taught programmer and open source enthusiast focusing on full stack w
 - Linux
 - Heroku
 
-### Interests
-
-- Music
-- Technology
-- Running
-- Science
-- Photography
-- Health
-
 ### Collaboration
 
-I love open source software and I'm open to contributing to pretty much anything. Contact me below if you'd like to collaborate!
+I love open source software and I'm open to contributing to pretty much anything. Contact me if you'd like to collaborate!
 
 ### Contact Me
 
