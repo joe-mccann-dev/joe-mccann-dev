@@ -2,26 +2,19 @@
 
 ### About Me
 
-I'm a self-taught programmer and open source enthusiast focusing on full stack web development.
+Self-taught programmer and software developer looking to impact meaningful change via practical web
+applications.
 
-- Status: Reading _A Common Sense Guide to Data Structures and Algorithms_ by Jay Wengrow
+- :orange_book: I’m currently reading _A Common Sense Guide to Data Structures and Algorithms_ by Jay Wengrow
 
-### Languages
+### Skills
 
-- HTML
-- CSS
-- JavaScript
-- Ruby
-- SQL
+#### Years of experience listed after each item.
 
-### Frameworks and Tools
-
-- Ruby on Rails
-- RSpec
-- Git
-- Debugger
-- Linux
-- Heroku
+- Languages: **Ruby** 2 | **JavaScript** 2 | **HTML** 2.5 | **CSS** 2.5
+- Frameworks: **Ruby on Rails** 2 | **RSpec** 2 | **React** 0.25
+- Databases: **PostgreSQL** 2
+- Other: **Git** 2.5 | **Linux** 2.5 | **Debugging** 2.5
 
 ### Collaboration
 
