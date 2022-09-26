@@ -12,7 +12,7 @@ applications.
 #### Years of experience listed after each item.
 
 - Languages: **Ruby** 2 | **JavaScript** 2 | **HTML** 2.5 | **CSS** 2.5
-- Frameworks: **Ruby on Rails** 2 | **RSpec** 2 | **React** 0.25
+- Frameworks: **Ruby on Rails** 2 | **RSpec** 2
 - Databases: **PostgreSQL** 1
 - Other: **Git** 2.5 | **Linux** 2.5 | **Debugging** 2.5
 
