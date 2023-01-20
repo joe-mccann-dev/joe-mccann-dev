@@ -2,10 +2,7 @@
 
 ### About Me
 
-Self-taught programmer and software developer looking to impact meaningful change via practical web
-applications.
-
-- :orange_book: I’m currently reading _A Common Sense Guide to Data Structures and Algorithms_ by Jay Wengrow
+- :orange_book: I taught myself how to program creating command line programs and web applications via [The Odin Project](https://www.theodinproject.com/). I'm primarily interested in software development but I'm also interested in database development and bioinformatics. I’m currently preparing to enroll in a MSCS program.
 
 ### Skills
 
