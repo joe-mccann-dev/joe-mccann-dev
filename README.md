@@ -2,16 +2,7 @@
 
 ### About Me
 
-- :orange_book: I taught myself how to program creating command line programs and web applications via [The Odin Project](https://www.theodinproject.com/). I'm primarily interested in software development but I'm also interested in database development and bioinformatics. I’m currently preparing to enroll in a MSCS program.
-
-### Skills
-
-#### Years of experience listed after each item.
-
-- Languages: **Ruby** 2 | **JavaScript** 2 | **HTML** 2.5 | **CSS** 2.5
-- Frameworks: **Ruby on Rails** 2 | **RSpec** 2
-- Databases: **PostgreSQL** 1
-- Other: **Git** 2.5 | **Linux** 2.5 | **Debugging** 2.5
+- :orange_book: I taught myself how to program creating command line programs and web applications via [The Odin Project](https://www.theodinproject.com/). Current MSCS student at UMass Dartmouth
 
 ### Collaboration
 
