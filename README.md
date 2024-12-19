@@ -2,7 +2,8 @@
 
 ### About Me
 
-- :orange_book: I taught myself how to program creating command line programs and web applications via [The Odin Project](https://www.theodinproject.com/). Current MSCS student at UMass Dartmouth
+- :orange_book: I taught myself how to program creating command line programs and web applications via [The Odin Project](https://www.theodinproject.com/).
+- Current MSCS student at UMass Dartmouth
 
 ### Collaboration
 
